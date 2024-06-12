@@ -1,0 +1,532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\useroperationclaimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\useroperationclaimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\entities\\concrete\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\entities\\concrete\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\dataaccess\\abstract\\ilogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\dataaccess\\abstract\\ilogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\entities\\dtos\\logdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\entities\\dtos\\logdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\abstract\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\abstract\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\controllers\\parselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\controllers\\parselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\parselmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\parselmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\abstract\\iparselservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\abstract\\iparselservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\abstract\\iuseroperationclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\abstract\\iuseroperationclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\dataaccess\\abstract\\iuseroperationclaimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\dataaccess\\abstract\\iuseroperationclaimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\controllers\\ilcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\controllers\\ilcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\ilcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\ilcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\abstract\\iilceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\abstract\\iilceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\abstract\\iilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\abstract\\iilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\controllers\\mahallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\controllers\\mahallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\mahallemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\mahallemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\controllers\\ilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\controllers\\ilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\business\\concrete\\ilmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\business\\concrete\\ilmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gokce\\Desktop\\VolkanTasinmazApp-master\\VolkanAppTasinmaz.API\\Business\\Concrete\\TasinmazManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\entities\\concrete\\parsel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\entities\\concrete\\parsel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\migrations\\20240513145218_initdb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\migrations\\20240513145218_initdb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|c:\\users\\gokce\\source\\repos\\tasinmaz.api\\tasinmaz.api\\entities\\dtos\\tasinmazdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E649A9E-247E-474E-9E01-432176989518}|Tasinmaz.API\\Tasinmaz.API.csproj|solutionrelative:tasinmaz.api\\entities\\dtos\\tasinmazdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\LogManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\LogManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\LogManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\LogManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:21:13.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:07:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\LogController.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Controllers\\LogController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:14:00.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\ILogService.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Abstract\\ILogService.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\ILogService.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Abstract\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:06:16.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Startup.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Startup.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswE4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:13:21.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\AuthManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\AuthManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:35:45.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOperationClaimManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\UserOperationClaimManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\UserOperationClaimManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\UserOperationClaimManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\UserOperationClaimManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:12:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILogDal.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\DataAccess\\Abstract\\ILogDal.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\DataAccess\\Abstract\\ILogDal.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\DataAccess\\Abstract\\ILogDal.cs",
+              "RelativeToolTip": "Tasinmaz.API\\DataAccess\\Abstract\\ILogDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:21:03.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\DTOs\\LogDetailDto.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Entities\\DTOs\\LogDetailDto.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\DTOs\\LogDetailDto.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Entities\\DTOs\\LogDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:56:40.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\Concrete\\Log.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Entities\\Concrete\\Log.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\Concrete\\Log.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Entities\\Concrete\\Log.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:52:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:57:28.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParselController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\ParselController.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Controllers\\ParselController.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\ParselController.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Controllers\\ParselController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:28:47.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IParselService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IParselService.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Abstract\\IParselService.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IParselService.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Abstract\\IParselService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:41:41.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\DataAccess\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "Tasinmaz.API\\DataAccess\\Abstract\\IUserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:20:33.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserOperationClaimDal.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\DataAccess\\Abstract\\IUserOperationClaimDal.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\DataAccess\\Abstract\\IUserOperationClaimDal.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\DataAccess\\Abstract\\IUserOperationClaimDal.cs",
+              "RelativeToolTip": "Tasinmaz.API\\DataAccess\\Abstract\\IUserOperationClaimDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:20:57.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Abstract\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Abstract\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:57:31.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\UserManager.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAkwJsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:57:38.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParselManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\ParselManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\ParselManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\ParselManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\ParselManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwDQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:46:38.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserOperationClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IUserOperationClaimService.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Abstract\\IUserOperationClaimService.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IUserOperationClaimService.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Abstract\\IUserOperationClaimService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:57:24.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IlceController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\IlceController.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Controllers\\IlceController.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\IlceController.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Controllers\\IlceController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:50:31.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IlceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\IlceManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\IlceManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\IlceManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\IlceManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:35:58.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IIlService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IIlService.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Abstract\\IIlService.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IIlService.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Abstract\\IIlService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:55:28.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IIlceService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IIlceService.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Abstract\\IIlceService.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Abstract\\IIlceService.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Abstract\\IIlceService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:55:35.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADgv5kAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:41:44.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MahalleController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\MahalleController.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Controllers\\MahalleController.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\MahalleController.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Controllers\\MahalleController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:52:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MahalleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\MahalleManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\MahalleManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\MahalleManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\MahalleManager.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:36:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IlController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\IlController.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Controllers\\IlController.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Controllers\\IlController.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Controllers\\IlController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:50:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IlManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\IlManager.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Business\\Concrete\\IlManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Business\\Concrete\\IlManager.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Business\\Concrete\\IlManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:55:56.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TasinmazManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\Desktop\\VolkanTasinmazApp-master\\VolkanAppTasinmaz.API\\Business\\Concrete\\TasinmazManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\VolkanTasinmazApp-master\\VolkanAppTasinmaz.API\\Business\\Concrete\\TasinmazManager.cs",
+              "ToolTip": "C:\\Users\\Gokce\\Desktop\\VolkanTasinmazApp-master\\VolkanAppTasinmaz.API\\Business\\Concrete\\TasinmazManager.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\VolkanTasinmazApp-master\\VolkanAppTasinmaz.API\\Business\\Concrete\\TasinmazManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:51:22.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Parsel.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\Concrete\\Parsel.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Entities\\Concrete\\Parsel.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\Concrete\\Parsel.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Entities\\Concrete\\Parsel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA9wB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:33:17.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240513145218_initdb3.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Migrations\\20240513145218_initdb3.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Migrations\\20240513145218_initdb3.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Migrations\\20240513145218_initdb3.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Migrations\\20240513145218_initdb3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:52:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TasinmazDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\DTOs\\TasinmazDetailDto.cs",
+              "RelativeDocumentMoniker": "Tasinmaz.API\\Entities\\DTOs\\TasinmazDetailDto.cs",
+              "ToolTip": "C:\\Users\\Gokce\\source\\repos\\Tasinmaz.API\\Tasinmaz.API\\Entities\\DTOs\\TasinmazDetailDto.cs",
+              "RelativeToolTip": "Tasinmaz.API\\Entities\\DTOs\\TasinmazDetailDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:31:04.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
