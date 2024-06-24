@@ -42,11 +42,11 @@ namespace Tasinmaz.API.Controllers
         {
             return Ok();
         }
-        //[HttpPost("add")]
-        //public async Task<IResult> AddParselAsync([FromBody] Parsel parsel)
-        //{
-        //    return await _parselService.AddParselAsync(parsel);
-        //}
+        [HttpPost("add")]
+        public async Task<IResult> AddParselAsync([FromBody] Parsel parsel)
+        {
+            return await _parselService.AddParselAsync(parsel);
+        }
 
         [HttpDelete("delete/{parselId}")]
         public async Task<IResult> DeleteParselAsync(int parselId)
